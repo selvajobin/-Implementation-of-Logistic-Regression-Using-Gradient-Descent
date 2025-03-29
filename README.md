@@ -9,10 +9,16 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Import the required libraries.
+
 2.Load the dataset.
+
 3.Define X and Y array.
+
 4.Define a function for costFunction,cost and gradient.
-5.Define a function to plot the decision boundary 6.Define a function to predict the Regression value.
+
+5.Define a function to plot the decision boundary
+
+6.Define a function to predict the Regression value.
 
 
 ## Program:
@@ -86,6 +92,31 @@ print(y_prednew)
 ```
 
 ## Output:
+![Screenshot 2025-03-29 193030](https://github.com/user-attachments/assets/61f94020-9869-4573-ba95-f878ac98ec0b)
+
+
+![Screenshot 2025-03-29 193054](https://github.com/user-attachments/assets/14e4ce38-2ce3-4e76-9cea-d6083ab46193)
+
+
+![Screenshot 2025-03-29 193101](https://github.com/user-attachments/assets/6219bc7b-a0e6-46f2-a825-8b9bdb67734c)
+
+
+![Screenshot 2025-03-29 193111](https://github.com/user-attachments/assets/2c435072-1df7-4413-a77d-f083827f05cf)
+
+
+![Screenshot 2025-03-29 193120](https://github.com/user-attachments/assets/91adca36-a374-4815-8c6d-11f5a0a8deaa)
+
+
+![Screenshot 2025-03-29 193137](https://github.com/user-attachments/assets/2a09ca59-1b63-4c98-98a2-da3a9d8d6446)
+
+
+![Screenshot 2025-03-29 193147](https://github.com/user-attachments/assets/97d7fe98-b190-4086-8f78-dc3fb256d134)
+
+
+
+
+
+
 
 
 
